@@ -1,2 +1,3 @@
-## Dashboard Preview
-![Retail Dashboard](./Retail_Dashboard.png)
+# Dashboard Preview
+
+![Retail Dashboard](Retail_Dashboard.png)
