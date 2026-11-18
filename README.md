@@ -1,1 +1,1 @@
-![Retail Dashboard](./Retail_Dashboard.png)
+![Retail Dashboard](Retail_Dashboard.png)
